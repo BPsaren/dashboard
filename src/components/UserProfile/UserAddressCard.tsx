@@ -26,7 +26,7 @@ export default function UserAddressCard() {
                   Country
                 </p>
                 <p className="text-sm font-medium text-gray-800 dark:text-white/90">
-                  United States.
+                  India.
                 </p>
               </div>
 
@@ -35,7 +35,7 @@ export default function UserAddressCard() {
                   City/State
                 </p>
                 <p className="text-sm font-medium text-gray-800 dark:text-white/90">
-                  Phoenix, Arizona, United States.
+                  Kolkata, West Bengal, India.
                 </p>
               </div>
 
@@ -44,16 +44,16 @@ export default function UserAddressCard() {
                   Postal Code
                 </p>
                 <p className="text-sm font-medium text-gray-800 dark:text-white/90">
-                  ERT 2489
+                  700013
                 </p>
               </div>
 
               <div>
                 <p className="mb-2 text-xs leading-normal text-gray-500 dark:text-gray-400">
-                  TAX ID
+                  Mobile Number
                 </p>
                 <p className="text-sm font-medium text-gray-800 dark:text-white/90">
-                  AS4568384
+                  XXXXXXXXXX
                 </p>
               </div>
             </div>
